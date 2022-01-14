@@ -1,3 +1,7 @@
+*Done in the context of a Cloud Application Development Coursework. Meant to work alongside the Quiplash repository found on my profile, these set of functions work once deployed onto Microsoft Azure, and let you interact with the CosmosDB databse through GETs and POSTs to authenticate, retrieve prompts, create prompts, set scores etc...*
+
+***
+
 this works once deployed, however when running locally
 
 host = os.environ["ACCOUNT_HOST"]

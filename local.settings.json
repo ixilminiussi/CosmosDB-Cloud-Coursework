@@ -5,8 +5,8 @@
     "FUNCTIONS_WORKER_RUNTIME": "python"
   },
   "ConnectionStrings": {
-    "MyQuiplash": "AccountEndpoint=https://myquiplash.documents.azure.com:443/;AccountKey=hj4rbvl5JhovTCgsUuVcJMee9kPI28Btfh0NuIjbZUFyhYjs2gZhzkJSWyt9kjEuMtjr0ugtS9HdMlQgteyy5Q==;",
+    "MyQuiplash": "AccountEndpoint=https://myquiplash.documents.azure.com:443/;AccountKey=cosmosDBkey",
     "ACCOUNT_HOST": "https://myquiplash.documents.azure.com:443/",
-    "ACCOUNT_KEY": "hj4rbvl5JhovTCgsUuVcJMee9kPI28Btfh0NuIjbZUFyhYjs2gZhzkJSWyt9kjEuMtjr0ugtS9HdMlQgteyy5Q=="
+    "ACCOUNT_KEY": "cosmosDBkey"
   }
 }
